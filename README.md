@@ -1,5 +1,9 @@
 HackMeIfYouCan
 
+J'ai grave galéré au début, j'étais perdu, je ne savais pas par quoi commencer. J'ai commencé à revoir tout ce qu'on avait vu en cours, et j'ai commencé mes consoles.
+Au final, j'y ai vu plus clair, j'ai vu que l'adresse sur laquelle je tapais pour voir mes résultats (marks, floor, etc.) n'était pas la bonne, donc j'avais toujours 0. Et dès que j'ai changé, là j'avais 3 points, et ça m'a motivé à faire la suite, etc. Sinon, j'en pouvais plus LOL. Le stress de l'exam u joue aussi..
+Merci à toi entout cas pour ton aide et ta réactivité pour nos questions et nos erreurs.
+
 PASSWORD :
 Password est private, mais il reste tout de même visible sur le storage.
 Donc, on va chercher directement sa position où il est stocké.
